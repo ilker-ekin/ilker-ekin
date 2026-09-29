@@ -17,7 +17,7 @@ Today I build backend services in **Java / Spring Boot** and **TypeScript / Node
 - **Security:** JWT · Spring Security · API Key Auth · Rate Limiting · bcrypt
 - **Testing:** JUnit 5 · Mockito · MockMvc · Testcontainers · Integration Testing · Unit Testing
 - **DevOps & Observability:** Docker · Docker Compose · GitHub Actions · CI/CD · Maven · Linux · Prometheus · Grafana · Spring Boot Actuator
-- **Architecture:** Multi-Tenancy · Caching Strategies · Backpressure · Layered Architecture · Scheduled Jobs
+- **Architecture:** Multi-Tenancy · Caching Strategies · Backpressure & Load Shedding · Layered Architecture · Scheduled Jobs
 - **Tools:** Git · Jira · Confluence · Claude Code · Cursor
 
 </details>
