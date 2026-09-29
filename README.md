@@ -6,7 +6,8 @@ Today I build backend services in **Java / Spring Boot** and **TypeScript / Node
 
 **Open to:** Backend / Software Engineer roles — remote, Izmir/Istanbul, or relocation.
 
-## Skills
+<details>
+<summary><b>Skills</b></summary>
 
 - **Languages:** Java · SQL · PL/SQL · TypeScript · JavaScript · Python
 - **Backend:** Spring Boot · Spring Security · Spring Data JPA · Hibernate · Node.js · Express · FastAPI · RESTful APIs · Third-Party API Integration · OpenAPI/Swagger
@@ -18,6 +19,8 @@ Today I build backend services in **Java / Spring Boot** and **TypeScript / Node
 - **DevOps & Observability:** Docker · Docker Compose · GitHub Actions · CI/CD · Maven · Linux · Prometheus · Grafana · Spring Boot Actuator
 - **Architecture:** Multi-Tenancy · Caching Strategies · Backpressure · Layered Architecture · Scheduled Jobs
 - **Tools:** Git · Jira · Confluence · Claude Code · Cursor
+
+</details>
 
 ## Contact
 
