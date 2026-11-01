@@ -1,6 +1,6 @@
 # İlker Ekin Erdoğdu
 
-Backend Software Engineer. 2 years at Rail-Flow GmbH, a Frankfurt-based multi-tenant railway-logistics SaaS used by 500+ customers across Europe, where I owned backend business logic, scheduled jobs, integrations and data migrations on an Oracle stack, and cut a key customer's core screen load time from 50s to 10s through query optimization.
+Software Engineer. 2 years at Rail-Flow GmbH, a Frankfurt-based multi-tenant railway-logistics SaaS used by 500+ customers across Europe, where I owned backend business logic, scheduled jobs, integrations and data migrations on an Oracle stack, and cut a key customer's core screen load time from 50s to 10s through query optimization.
 
 In personal projects I build backend services in TypeScript / Node.js and Java / Spring Boot on PostgreSQL and Redis, with integration tests and CI.
 
