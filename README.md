@@ -2,7 +2,7 @@
 
 Software Engineer. 2 years at Rail-Flow GmbH, a Frankfurt-based multi-tenant railway-logistics SaaS used by 500+ customers across Europe, where I owned backend business logic, scheduled jobs, integrations and data migrations on an Oracle stack, and cut a key customer's core screen load time from 50s to 10s through query optimization.
 
-In personal projects I build backend services in TypeScript / Node.js and Java / Spring Boot on PostgreSQL and Redis, with integration tests and CI. Currently building [VisaRadar](https://github.com/ilker-ekin/visaradar), a job-market data platform that collects ~16,000 postings from 135 company job boards twice a day (TypeScript, React, SQLite, 262 tests in CI).
+In personal projects I build backend services in TypeScript / Node.js and Java / Spring Boot on PostgreSQL and Redis, with integration tests and CI. Currently building [HadiJob](https://github.com/ilker-ekin/visaradar), a job-market data platform that collects ~16,000 postings from 135 company job boards twice a day (TypeScript, React, SQLite, 262 tests in CI).
 
 Open to: Software / Backend Engineer roles in İzmir, İstanbul or Ankara (on-site or hybrid), or remote.
 
